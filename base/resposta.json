@@ -1,0 +1,417 @@
+{
+  "bom dia": [
+    "☀️ Bom diaaa! Que seu dia seja incrível 😄",
+    "🌅 Bom dia! Bora vencer hoje 💪",
+    "✨ Bom dia! Deus abençoe seu dia 🙏"
+  ],
+  "boa tarde": [
+    "🌤️ Boa tarde! Como tá seu dia? 😎",
+    "💛 Boa tarde! Não esquece de beber água 😄",
+    "🔥 Boa tarde! Bora continuar firme 💪"
+  ],
+  "boa noite": [
+    "🌙 Boa noite! Durma bem 😴",
+    "✨ Boa noite! Que seus sonhos sejam bons 😌",
+    "💤 Boa noite! Descansa aí campeão 😎"
+  ],
+  "oi": [
+    "👋 Oi! Tudo bem? 😄",
+    "😎 Fala comigo!",
+    "👀 Opa, apareceu!"
+  ],
+  "bot": [
+    "🤖 Tô online!",
+    "😎 Chamou o pai?",
+    "🔥 Sempre ativa!"
+  ],
+  "tudo bem": [
+    "👍 Tudo ótimo e você?",
+    "😁 Tudo tranquilo! E aí, beleza?",
+    "💪 Tudo certo! Só alegria ✨"
+  ],
+  "obrigado": [
+    "😊 Por nada! Disponha sempre.",
+    "🙏 De nada! Tô aqui pra ajudar.",
+    "🤝 Imagina! Que bom que pude ajudar."
+  ],
+  "qual é": [
+    "😎 Qual é a boa?",
+    "🔥 Fala aí, qual é o rolê?",
+    "👊 Qualé, parceiro? Bora!"
+  ],
+  "kkk": [
+    "🤣 Ri alto aqui também!",
+    "😄 Kkkkkkk bom demais!",
+    "😂 Kkkk num aguento!"
+  ],
+  "triste": [
+    "😔 Poxa... quer conversar? Tô aqui.",
+    "💙 Força aí! As coisas vão melhorar.",
+    "🤗 Mando um abraço virtual pra você."
+  ],
+  "feliz": [
+    "🥳 Que bom! Fico feliz por você!",
+    "😁 Isso aí! Espalha essa energia boa ✨",
+    "🎉 Felicidade sempre! Compartilha aí kk"
+  ],
+  "ajuda": [
+    "🆘 Claro! Manda o problema que eu ajudo.",
+    "🤔 O que você precisa? Tô aqui pra isso.",
+    "🧠 Posso tentar ajudar! Fala comigo."
+  ],
+  "comandos": [
+    "📜 Comandos disponíveis: bom dia, boa tarde, boa noite, oi, bot, tudo bem, obrigado... e mais!",
+    "🔧 Me chama com palavras como 'ajuda' ou 'triste' que eu respondo legal.",
+    "🛠️ Não tenho muitos comandos fixos, mas reajo a sentimentos e saudações."
+  ],
+  "horas": [
+    "⏰ Não sei que horas são exatamente, mas olha o relógio aí!",
+    "📱 Dá uma olhada no canto da tela 😅",
+    "⌚ Se eu tivesse um relógio te falava... mas uso o do sistema!"
+  ],
+  "tchau": [
+    "👋 Tchauzinho! Até mais.",
+    "😊 Até logo! Volte sempre.",
+    "✌️ Falou! Se precisar tô aqui."
+  ],
+  "lindo": [
+    "😏 Ahh, para bicho...",
+    "🤩 Tá me tirando? Valeu!",
+    "😎 Só sei ser lindo mesmo."
+  ],
+  "feio": [
+    "😤 Nem sei o que é isso.",
+    "😆 Feio é quem não usa o bot!",
+    "🙄 Cada um com sua opinião..."
+  ],
+  "sim": [
+    "👍 Sim sim, concordo!",
+    "😁 Óbvio que sim!",
+    "✅ Sim, senhor!"
+  ],
+  "não": [
+    "🤨 Não? Tem certeza?",
+    "😮 Não mesmo?",
+    "❌ Ah, é não? Tudo bem então."
+  ],
+  "gol": [
+    "⚽ GOLOOOOOOO!!! Que golaço! 🎉",
+    "🥅 Tá comemorando? GOL DA GALERA! 🔥",
+    "📢 ÉÉÉÉÉ GOL!!! Bora vibrar! 🗣️"
+  ],
+  "copa": [
+    "🏆 Copa do Mundo é emoção pura! Qual sua seleção favorita? 🇧🇷",
+    "🌎 Saudade da Copa? Eu também! Vem aí de novo...",
+    "⚽ Copa do Mundo é união, alegria e muito futebol! 🏆"
+  ],
+  "copa do mundo": [
+    "🏆 A Copa é nossa maior paixão! 5 estrelas no peito do Brasil 🇧🇷",
+    "⚽ Melhor época do mundo é Copa! Churrasco, bandeira e gol!!!",
+    "🌍 Quem será o próximo campeão do mundo? Torcendo pelo Hexa! 🏆"
+  ],
+  "futebol": [
+    "⚽ Futebol é a religião do Brasil! Qual time você torce?",
+    "🥅 Futebol é raça, amor e suor. Bora jogar?",
+    "📺 Sábado é dia de futebol! Já separou a cerveja? 🍺"
+  ],
+  "hexa": [
+    "🇧🇷 Um dia o Hexa vem! Acredita! 🏆",
+    "🤞 Vamos Brasil! O hexa está guardado pra nós.",
+    "💚💛 HEXA é questão de tempo! Confia."
+  ],
+  "neymar": [
+    "🇧🇷 Neymar é craque demais! ⚽✨",
+    "💫 Neymar de bola pra lá, bola pra cá... gol!",
+    "😎 Só não vale cair demais, Ney! (brincadeira 😅)"
+  ],
+  "pelé": [
+    "👑 Pelé é o Rei! Maior de todos os tempos. 🇧🇷🏆",
+    "⚽ Mil gols, três Copas... eterno Pelé!",
+    "🙏 Rei Pelé, eterna lenda do futebol mundial."
+  ],
+  "mundial": [
+    "🌍 Mundial de Clubes também é top! Quem levou esse ano? 🏆",
+    "⚽ Mundial é a glória máxima dos clubes! Bora campeão!",
+    "🏆 Ganhar mundial é coisa de gigante!"
+  ],
+  "palmeiras": [
+    "🐷 Porco! É o campeão! 🔥",
+    "💚 Verdão tem mundial! 🏆",
+    "💪 Palmeiras não tem mundial? Tem sim!"
+  ],
+  "flamengo": [
+    "❤️ Mengão é o povo! 🏆",
+    "🖤 Fla é o maior do Brasil! 🔴",
+    "🔥 Flamengo campeão de tudo!"
+  ],
+  "corinthians": [
+    "🖤 Timão é raça! ⚪",
+    "🐔 Vai Corinthians!",
+    "👊 Fiel torcida não para nunca!"
+  ],
+  "botafogo": [
+    "🌟 Fogão voltou com tudo! 🔥",
+    "⚫⚪ Botafogo de olho nas estrelas!",
+    "🏆 Glorioso!"
+  ],
+  "atlético-mg": [
+    "🐔 Galo forte! 🏆",
+    "⚫⚪ Hulk e cia, time de respeito!",
+    "🔊 Galoooo!"
+  ],
+  "internacional": [
+    "🔴 Colorado do sul!",
+    "⚪ Inter é paixão nacional! 💙",
+    "🏆 Sempre de peito aberto!"
+  ],
+  "fluminense": [
+    "🔴⚪ Tricolor das laranjeiras!",
+    "🇫🇷 É Flu, é Diniz, é seleção!",
+    "🏆 Campeão da Libertadores!"
+  ],
+  "grêmio": [
+    "🔵⚫ Imortal tricolor!",
+    "🇪🇪 Suaírez já passou, mas a alma fica!",
+    "🏆 Grêmio é tradição!"
+  ],
+  "são paulo": [
+    "🔴⚪⚫ Soberano! Tricolor de coração!",
+    "🏆 O clube da fé!",
+    "🇧🇷 São Paulo é gigante!"
+  ],
+  "vasco": [
+    "⚫⚪ Camisas negras!",
+    "💢 Vascão da massa!",
+    "🏆 Vasco é resistência!"
+  ],
+  "bahia": [
+    "🔴⚪⚫ Esquadrão de aço! 🔥",
+    "🏆 Bahia é pura energia!",
+    "🎉 Salvador vibra com o Bahia!"
+  ],
+  "fortaleza": [
+    "🔵⚪⚫ Leão do Pici! 🦁",
+    "🌊 Fortaleza é força do nordeste!",
+    "🏆 Voa, Leão!"
+  ],
+  "cruzeiro": [
+    "🔵⚪ Raposaaa! 🦊",
+    "⭐ Cruzeiro gigante (e não cai mais!)",
+    "🏆 Cabuloso voltou!"
+  ],
+  "athletico-pr": [
+    "🔴⚫ Furacão paranista!",
+    "⚡ Athletico é inovação!",
+    "🏆 Tem Copa do Brasil e Sul-Americana!"
+  ],
+  "cuiabá": [
+    "🐆 Dourado! Representando o Mato Grosso!",
+    "🌵 Cuiabá surpreende todo ano!",
+    "⚽ Garra auriverde!"
+  ],
+  "bragantino": [
+    "⚪⚫ Massa Bruta!",
+    "🔥 Energia do Red Bull!",
+    "🏆 Bragantino é evolução!"
+  ],
+  "juventude": [
+    "🟢⚪ Juventude guerreiro!",
+    "⛰️ Papo de time de Caxias do Sul!",
+    "🏆 Sempre de volta!"
+  ],
+  "atlético-go": [
+    "⚫🔴 Dragão!",
+    "🏆 Atlético-GO é luta e raça!",
+    "🔥 Vai, Dragão!"
+  ],
+  "goiás": [
+    "🟢⚪ Esmeraldino!",
+    "🐺 Goiás é tradição goiana!",
+    "⚽ Time de coração do Centro-Oeste!"
+  ],
+  "coritiba": [
+    "🟢⚪ Coxa branca!",
+    "🐺 Coritiba é o mais antigo do PR!",
+    "⚽ Alto da Glória!"
+  ],
+  "e ai": [
+    "👉 E aí, beleza?",
+    "🔥 Opa, fala aí! Tudo certo?",
+    "😎 E aí, meu consagrado!"
+  ],
+  "beleza": [
+    "👍 Beleza pura! E vc?",
+    "✨ Na beleza do dia! ☀️",
+    "😁 Beleza, e você?"
+  ],
+  "blz": [
+    "✅ Blz, blz!",
+    "😎 Tudo blz por aqui!",
+    "💪 Blz! Só sucesso."
+  ],
+  "valeu": [
+    "💙 Valeu você!",
+    "🙏 Disponha, meu querido.",
+    "😊 Tamo junto!"
+  ],
+  "nada": [
+    "🤷 Nada não, ué.",
+    "😅 Nada... e você fez o quê?",
+    "🫥 Nada também, tô de boa."
+  ],
+  "caramba": [
+    "😲 Caramba! Que isso?",
+    "🤯 Caramba, me pegou de surpresa!",
+    "💥 Caramba, aí sim!"
+  ],
+  "eita": [
+    "🤠 Eita porra!",
+    "😬 Eita, complicou hein.",
+    "⚠️ Eita, olha o drama!"
+  ],
+  "putz": [
+    "😩 Putz... aí é foda.",
+    "🙄 Putz, que pena.",
+    "🤦 Putz grilo!"
+  ],
+  "opa": [
+    "👀 Opa! Apareceu!",
+    "😎 Opa, meu parceiro!",
+    "🕺 Opa, bora!"
+  ],
+  "socorro": [
+    "🆘 Socorro! Tô aqui, o que houve?",
+    "🏃‍♂️ Socorro! Já vou correndo ajudar.",
+    "😱 Ué, cadê o bombeiro?"
+  ],
+  "fome": [
+    "🍔 Fome? Bora um podrão!",
+    "🍕 Hum, bateu fome também...",
+    "🥗 Fome é coisa séria, vai comer!"
+  ],
+  "sede": [
+    "💧 Bebe água, faz bem!",
+    "🥤 Sede? Um suco ou refri cai bem.",
+    "🚰 Tá com sede? Hidrata aí!"
+  ],
+  "sono": [
+    "😴 Sono é foda... toma um café ☕",
+    "🛌 Também tô com sono, vamos dormir?",
+    "💤 Soninho gostoso... só mais 5 minutos."
+  ],
+  "amor": [
+    "💖 Amor! Que lindo assunto 💕",
+    "🥰 Tá apaixonado? Conte tudo!",
+    "❤️ O amor tá no ar... ou não?"
+  ],
+  "crush": [
+    "😳 Crush? Fala o nome!",
+    "💘 Saiu com o crush? Conta pra mim!",
+    "📸 Manda uma foto do crush aí!"
+  ],
+  "trabalho": [
+    "💼 Trabalho... necessário mas cansativo.",
+    "👔 Tá no trampo? Força aí, guerreiro!",
+    "💻 Home office ou presencial? Tô na torcida!"
+  ],
+  "estudo": [
+    "📚 Estuda que a vida muda!",
+    "✍️ Tá estudando o quê? Bora aprender!",
+    "🎓 Foco nos estudos, depois comemora!"
+  ],
+  "dinheiro": [
+    "💰 Dinheiro? Quem dera tivesse muito kk",
+    "💵 Falar em dinheiro me deu até tesão (emoji de olhos) 😂",
+    "🤑 Se sobrar um pouquinho, me manda um Pix?"
+  ],
+  "férias": [
+    "🏖️ Férias é vida! Aproveita muito!",
+    "✈️ Férias? Me leva junto?",
+    "😎 Férias merecidas, descansa aí."
+  ],
+  "praia": [
+    "🌊 Praia é meu lugar! Pé na areia 🏖️",
+    "☀️ Praia com água de coco, céu azul...",
+    "🏄 Vai pegar uma onda pra mim também?"
+  ],
+  "chuva": [
+    "🌧️ Chuva boa pra dormir, credo...",
+    "☔ Chuva molha mas também acalma.",
+    "⛈️ Tá chovendo? Fica em casa e vem conversar!"
+  ],
+  "sol": [
+    "☀️ Sol rachando! Protetor solar neles!",
+    "🕶️ Solão lindo, bora pra piscina?",
+    "😎 Sol, calor e mar... perfeito."
+  ],
+  "frio": [
+    "❄️ Frio do cacete! Tá de coberta?",
+    "🥶 Frio me faz querer chocolate quente.",
+    "🧣 Tá frio? Veste um casaco e me ignora não."
+  ],
+  "calor": [
+    "🥵 Calor dos infernos! Um ar condicionado urgente.",
+    "🔥 Calor assim só de sunga e água gelada.",
+    "🍦 Calor? Bora um sorvete!"
+  ],
+  "jogos": [
+    "🎮 Jogos? Qual você curte?",
+    "🕹️ Tô dentro! CS, Free Fire, Minecraft...",
+    "🖱️ Bora jogar junto algum dia?"
+  ],
+  "música": [
+    "🎵 Música cura a alma! Qual seu estilo?",
+    "🎧 Tô sempre de fone, amo música.",
+    "🎶 Bota aí um som bom pra gente!"
+  ],
+  "filme": [
+    "🍿 Filme é cultura! Último que viu?",
+    "🎬 Tô precisando de recomendação de filme...",
+    "📽️ Filme de terror? Só se for com luz acesa kkk"
+  ],
+  "série": [
+    "📺 Série maratonando? Conta aí!",
+    "🎞️ Série boa é vício... vou começar mais uma.",
+    "🛋️ Qual série você indica? Preciso de uma nova."
+  ],
+  "anime": [
+    "🇯🇵 Otaku detectado! Qual anime favorito?",
+    "🎌 Anime é vida! Já viu o último episódio?",
+    "🤺 Tô sempre assistindo uns animes épicos."
+  ],
+  "saúde": [
+    "🍎 Saúde é o que importa! Se cuida.",
+    "🏥 Tá doente? Melhoras rapidinho!",
+    "💊 Saúde em dia? Vai no médico se precisar."
+  ],
+  "santos": [
+    "⚪⚫ Santos é tradição! Rei Pelé eterno 👑",
+    "🏆 Santástico! Vila Belmiro pulsa.",
+    "🐋 Peixão sempre gigante!"
+  ],
+  "sport": [
+    "🔴⚫ Sport Recife! Leão da Ilha 🦁",
+    "🏆 Sport é força nordestina!",
+    "⚽ Ilha do Retiro ferve!"
+  ],
+  "ceará": [
+    "⚫⚪ Vozão! Time de coração do Ceará!",
+    "🦁 Alvinegro de alma!",
+    "🏆 Ceará guerreiro sempre!"
+  ],
+  "vitória": [
+    "🔴⚫ Vitória! Leão da Barra 🦁",
+    "🏆 Salvador é vermelha e preta!",
+    "⚽ O Leão voltou com tudo!"
+  ],
+  "chapecoense": [
+    "💚 Condá! Chape é resistência e amor.",
+    "🟢⚪ Força Chape, sempre na memória e no coração.",
+    "🏆 Chape renasce das cinzas, exemplo de superação."
+  ],
+  "ponte preta": [
+    "⚫⚪ Ponte Preta! Macaca brava 🐒",
+    "🏆 Campinas tem tradição!",
+    "⚽ Majestoso do interior!"
+  ]
+}
