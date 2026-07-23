@@ -86,6 +86,108 @@ return `╭━━━━━━━━━━━━━━━╮
 ╰━━━━━━━━━━━━━━━╯`
 }
 
+export function menuadm(prefix, larabot, laradona, numero) {
+return `╭━━━━━━━━━━━━━━━╮
+   ⚙*MENU ADMIN*⚙️
+╰━━━━━━━━━━━━━━━╯
+
+👤 Usuário: @${numero}
+📱 Prefixo: ${prefix}
+🤖 Bot: ${larabot}
+👤 Dona: ${laradona}
+
+────────────────────
+🛡 *MODERAÇÃO*
+────────────────────
+𑁍 ${prefix}ban
+𑁍 ${prefix}b
+𑁍 ${prefix}promover
+𑁍 ${prefix}rebaixar
+𑁍 ${prefix}limpar
+𑁍 ${prefix}marcar
+𑁍 ${prefix}citar 
+𑁍 ${prefix}deleta 
+𑁍 ${prefix}grupo a/f
+𑁍 ${prefix}nomegp
+𑁍 ${prefix}linkgp
+𑁍 ${prefix}regras
+
+────────────────────
+🎉 *DIVERSÃO & SORTEIO*
+────────────────────
+𑁍 ${prefix}sorteio
+𑁍 ${prefix}ship
+𑁍 ${prefix}dado
+𑁍 ${prefix}ppt
+𑁍 ${prefix}tapa
+𑁍 ${prefix}beijo
+𑁍 ${prefix}corno
+𑁍 ${prefix}qi
+𑁍 ${prefix}morte
+𑁍 ${prefix}separar
+𑁍 ${prefix}eununca
+
+────────────────────
+🏆 *RANKINGS*
+────────────────────
+𑁍 ${prefix}rankativo
+𑁍 ${prefix}rankinativo
+𑁍 ${prefix}ranktoxicos
+𑁍 ${prefix}rankcasais
+𑁍 ${prefix}rankfantasma
+𑁍 ${prefix}rankgostoso
+𑁍 ${prefix}rankgostosa
+𑁍 ${prefix}rankbebados
+𑁍 ${prefix}rankgay
+𑁍 ${prefix}rankfeio
+𑁍 ${prefix}top5
+𑁍 ${prefix}casal
+
+────────────────────
+📂 *LISTAS*
+────────────────────
+𑁍 ${prefix}listanegra
+𑁍 ${prefix}tirardalista
+𑁍 ${prefix}listaban
+
+────────────────────
+⚙ *CONFIGURAÇÕES*
+────────────────────
+𑁍 ${prefix}dados
+𑁍 ${prefix}configbv
+𑁍 ${prefix}bemvindo
+𑁍 ${prefix}legendabv
+𑁍 ${prefix}bemvindoimg
+𑁍 ${prefix}bemvindofoto
+𑁍 ${prefix}saida
+𑁍 ${prefix}legendasaiu
+𑁍 ${prefix}saidafoto
+𑁍 ${prefix}autofigu
+𑁍 ${prefix}modobrincadeira
+𑁍 ${prefix}autorepo
+𑁍 ${prefix}x9
+𑁍 ${prefix}soadm
+
+────────────────────
+🛡 *PROTEÇÕES*
+────────────────────
+𑁍 ${prefix}antilink
+𑁍 ${prefix}antilinkgp
+𑁍 ${prefix}antiimg
+𑁍 ${prefix}antivideo
+𑁍 ${prefix}antidoc
+𑁍 ${prefix}antiloc
+𑁍 ${prefix}antisticker
+𑁍 ${prefix}anticontato
+𑁍 ${prefix}antiaudio
+𑁍 ${prefix}antienquete
+𑁍 ${prefix}antistatus
+𑁍 ${prefix}antidel
+𑁍 ${prefix}escudo
+
+╰━━━━━━━━━━━━━━━╯`
+}
+
 export function menudono(prefix, larabot, laradona, numero, versao) {
 return `
 ╭━━━━━━━━━━━━━━━╮
