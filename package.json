@@ -1,6 +1,6 @@
 {
   "name": "Lara bot",
-  "version": "2.2.0",
+  "version": "2.1.5",
   "description": "",
   "main": "index.js",
   "type": "module",
