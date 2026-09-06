@@ -23,10 +23,8 @@ return `╭━━━━━━━━━━━━━━━╮
 𑁍 ${prefix}comando
 𑁍 ${prefix}ping
 𑁍 ${prefix}eu
-𑁍 ${prefix}me
 𑁍 ${prefix}perfil
-𑁍 ${prefix}myprofile
-𑁍 ${prefix}ver
+𑁍 ${prefix}revela
 𑁍 ${prefix}dono
 
 ────────────────────
@@ -52,7 +50,7 @@ return `╭━━━━━━━━━━━━━━━╮
 𑁍 ${prefix}eununca
 𑁍 ${prefix}verdade
 𑁍 ${prefix}desafio
-
+𑁍 ${prefix}vab
 ────────────────────
 🧩 SISTEMA
 ────────────────────
@@ -80,6 +78,7 @@ return `╭━━━━━━━━━━━━━━━╮
 𑁍 ${prefix}antipv
 𑁍 ${prefix}antistatus
 𑁍 ${prefix}antiloc
+𑁍 ${prefix}anticallgp
 𑁍 ${prefix}escudo
 𑁍 ${prefix}soadm
 
@@ -126,6 +125,7 @@ return `╭━━━━━━━━━━━━━━━╮
 𑁍 ${prefix}morte
 𑁍 ${prefix}separar
 𑁍 ${prefix}eununca
+𑁍 ${prefix}vab
 
 ────────────────────
 🏆 *RANKINGS*
@@ -289,6 +289,8 @@ return `
 𑁍 ${prefix}bebado
 𑁍 ${prefix}gostoso
 𑁍 ${prefix}gostosa
+𑁍 ${prefix}forca 
+𑁍 ${prefix}jogodavelha
 
 ────────────────────
 💕 INTERAÇÃO
@@ -315,6 +317,7 @@ return `
 𑁍 ${prefix}conselhoamor
 𑁍 ${prefix}conselhovida
 𑁍 ${prefix}boladecristal
+𑁍 ${prefix}vab
 
 ────────────────────
 🎉 DIVERSÃO
