@@ -55,7 +55,7 @@ return `╭━━━━━━━━━━━━━━━╮
 🧩 SISTEMA
 ────────────────────
 𑁍 ${prefix}criador
-𑁍 ${prefix}dados
+𑁍 ${prefix}dados / status
 𑁍 ${prefix}configbv
 𑁍 ${prefix}bemvindo
 𑁍 ${prefix}saida
@@ -80,6 +80,7 @@ return `╭━━━━━━━━━━━━━━━╮
 𑁍 ${prefix}antistatus
 𑁍 ${prefix}antiloc
 𑁍 ${prefix}anticallgp
+𑁍 ${prefix}anticanal
 𑁍 ${prefix}escudo
 𑁍 ${prefix}soadm
 
@@ -99,14 +100,13 @@ return `╭━━━━━━━━━━━━━━━╮
 ────────────────────
 🛡 *MODERAÇÃO*
 ────────────────────
-𑁍 ${prefix}ban
-𑁍 ${prefix}b
+𑁍 ${prefix}ban / b
 𑁍 ${prefix}promover
 𑁍 ${prefix}rebaixar
 𑁍 ${prefix}limpar
 𑁍 ${prefix}marcar
 𑁍 ${prefix}citar 
-𑁍 ${prefix}deleta 
+𑁍 ${prefix}deleta / d
 𑁍 ${prefix}grupo a/f
 𑁍 ${prefix}nomegp
 𑁍 ${prefix}linkgp
@@ -154,7 +154,7 @@ return `╭━━━━━━━━━━━━━━━╮
 ────────────────────
 ⚙ *CONFIGURAÇÕES*
 ────────────────────
-𑁍 ${prefix}dados
+𑁍 ${prefix}dados / status
 𑁍 ${prefix}configbv
 𑁍 ${prefix}bemvindo
 𑁍 ${prefix}legendabv
@@ -185,6 +185,8 @@ return `╭━━━━━━━━━━━━━━━╮
 𑁍 ${prefix}antistatus
 𑁍 ${prefix}antidel
 𑁍 ${prefix}escudo
+𑁍 ${prefix}anticallgp
+𑁍 ${prefix}anticanal
 
 ╰━━━━━━━━━━━━━━━╯`
 }
@@ -232,6 +234,7 @@ return `
 𑁍 ${prefix}deleta
 𑁍 ${prefix}cita / citar
 𑁍 ${prefix}marca / marcar
+𑁍 ${prefix}dominado
 
 ────────────────────
 🧠 SISTEMA
